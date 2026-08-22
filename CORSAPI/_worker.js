@@ -327,10 +327,10 @@ async function handleHomePage(currentOrigin, defaultPrefix) {
   </div>
    <div class="section">
     <h3>📦 多源（my_repos，默认）</h3>
-    <p>原始 JSON：<br><code class="copyable">${currentOrigin}?format=0&source=full</code> <button class="copy-btn">复制</button></p>
-    <p>中转代理 JSON：<br><code class="copyable">${currentOrigin}?format=1&source=full</code> <button class="copy-btn">复制</button></p>
-    <p>原始 Base58：<br><code class="copyable">${currentOrigin}?format=2&source=full</code> <button class="copy-btn">复制</button></p>
-    <p>中转 Base58：<br><code class="copyable">${currentOrigin}?format=3&source=full</code> <button class="copy-btn">复制</button></p>
+    <p>原始 JSON：<br><code class="copyable">${currentOrigin}?format=0&source=my_repos</code> <button class="copy-btn">复制</button></p>
+    <p>中转代理 JSON：<br><code class="copyable">${currentOrigin}?format=1&source=my_repos</code> <button class="copy-btn">复制</button></p>
+    <p>原始 Base58：<br><code class="copyable">${currentOrigin}?format=2&source=my_repos</code> <button class="copy-btn">复制</button></p>
+    <p>中转 Base58：<br><code class="copyable">${currentOrigin}?format=3&source=my_repos</code> <button class="copy-btn">复制</button></p>
   </div>
   <h2>支持的功能</h2>
   <ul>
