@@ -27,6 +27,7 @@ const JSON_SOURCES = {
   'jin18': 'https://raw.githubusercontent.com/yishen1993/LunaTV-config/refs/heads/main/jin18.json',
   'jingjian': 'https://raw.githubusercontent.com/yishen1993/LunaTV-config/refs/heads/main/jingjian.json',
   'full': 'https://raw.githubusercontent.com/yishen1993/LunaTV-config/refs/heads/main/LunaTV-config.json'
+  'my_repos': 'https://raw.githubusercontent.com/yishen1993/LunaTV-config/main/CORSAPI/my_repos.json'
 }
 
 const FORMAT_CONFIG = {
